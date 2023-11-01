@@ -1,5 +1,5 @@
 package main
-//lalala
+
 import (
 	"fmt"
 )
